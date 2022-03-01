@@ -1,0 +1,74 @@
+body {
+    color: whitesmoke;
+    font-size: 175%;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab4b7e05-2d9c-46ac-b287-d52e6b5b984f/dbcumtj-325e15f6-60a9-428d-952e-b6202c2cee3a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hYjRiN2UwNS0yZDljLTQ2YWMtYjI4Ny1kNTJlNmI1Yjk4NGYvZGJjdW10ai0zMjVlMTVmNi02MGE5LTQyOGQtOTUyZS1iNjIwMmMyY2VlM2EucG5nIn1dXX0.Ib7gPB0FD6O32U-nhwbA1pqmcWI3i-CoR21-8mtVRag);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    float: right;
+    width: 350px;
+    height: 200px;
+}
+
+p {
+    text-align: left;
+}
+
+.main-container{
+    border-top: 10px;
+    border-width: 10px;
+    border-style: groove;
+    border-color: turquoise;
+    display: inline-block;
+    text-align: left;
+    padding: 100px 0 0 0;
+}
+
+.color-container{
+    text-align: center;
+    border-radius: 50%;
+    display: inline-block;
+    height: 150px;
+    width: 250px;
+    margin: 0 2cm;
+    color: white;
+    padding: 100px 0 0 0;
+}
+fieldset {
+    background-color: midnightblue;
+}
+#fcontainer2 {
+    display: inline-block;
+    border-color: cyan;
+    border-width: auto;
+    border-top: auto;
+    border-style: groove;
+    background-color: plum;
+}
+legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+  }
+#color-brown{
+    background-color: brown;
+}
+#color-brown:hover{
+    background-color:magenta;
+}
+#color-blue{
+    background-color: blue;
+}
+#color-blue:hover{
+    background-color:yellow;
+}
+#color-violet{
+    background-color:violet;
+}
+#color-violet:hover{
+    background-color:aquamarine;
+}
